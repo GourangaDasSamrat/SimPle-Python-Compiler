@@ -1,145 +1,177 @@
-# Simple Python Compiler 🐍💻✨
+# Simple Python Compiler <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24"/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a3195e5d-a1ee-4bee-97ad-db3f80182dfa/deploy-status)](https://app.netlify.com/sites/simplepythoncompiler/deploys)
-![GitHub](https://img.shields.io/github/license/GourangaDasSamrat/SimPle-Python-Compiler)
-![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/SimPle-Python-Compiler?style=social)
-![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/SimPle-Python-Compiler?style=social)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsimplepythoncompiler.netlify.app)](https://simplepythoncompiler.netlify.app)
-[![Made with CodeMirror](https://img.shields.io/badge/Made%20with-CodeMirror-1f425f.svg)](https://codemirror.net/)
+<p align="center">
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/a3195e5d-a1ee-4bee-97ad-db3f80182dfa/deploy-status">
+  <img src="https://img.shields.io/github/license/GourangaDasSamrat/SimPle-Python-Compiler" alt="License">
+  <img src="https://img.shields.io/github/stars/GourangaDasSamrat/SimPle-Python-Compiler?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/GourangaDasSamrat/SimPle-Python-Compiler?style=social" alt="GitHub forks">
+  <a href="https://simplepythoncompiler.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsimplepythoncompiler.netlify.app" alt="Website"></a>
+  <a href="https://codemirror.net/"><img src="https://img.shields.io/badge/Made%20with-CodeMirror-1f425f.svg" alt="Made with CodeMirror"></a>
+</p>
 
-## Introduction 👋
+---
 
-You know how sometimes you just wanna quickly test out some code without setting up a whole environment? That's exactly what inspired me to build this little project, "Simple Python Compiler". It's a simple web-based tool where you can write and run Python code right in your browser. I used the awesome CodeMirror editor for a smooth coding experience and hooked it up to an external API to handle the code execution. It's been a fun project to work on, and I hope you find it useful! 😊
+<p align="center">
+  <b>Elegant, minimal, and blazing fast Python playground in your browser.</b><br>
+  <i>Write, run, and share Python code instantly—no setup required.</i>
+</p>
 
-## Live Demo 🚀
+---
 
-You can check out a live version of the project here:
+## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen)](https://simplepythoncompiler.netlify.app/)
+<p align="center">
+  <a href="https://simplepythoncompiler.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
+  </a>
+</p>
 
-## Demo Video 🎬
+---
 
-Currently, there isn't a demo video available. I'm planning to add one soon to walk you through how to use the "Simple Python Compiler"! Stay tuned! 😉
+## 👋 Introduction
 
-## Features ✨
+**Simple Python Compiler** is a modern, web-based Python playground designed for speed, simplicity, and productivity. Powered by CodeMirror and the Piston API, it lets you experiment, learn, and share Python code effortlessly—right from your browser.
 
-- 📝 **Code Editing:** Write your HTML, CSS, and JavaScript code with syntax highlighting and other cool features thanks to CodeMirror 6.65.7.
-- ▶️ **Code Execution:** Run your code using the powerful Piston API from `emkc.org`.
-- 📁 **Simple Structure:** Easy to understand and navigate with just `index.html`, `style.css`, and `script.js`.
-- 🌐 **Web-Based:** Access and use the Compilerr directly in your web browser.
+---
 
-## Technologies Used 🛠️
+## ✨ Features
 
-- **HTML:** The basic structure of the web page.
-- **CSS:** Styling to make things look good.
-- **JavaScript (ES6):** For handling the editor logic, API calls, and user interactions.
-- **CodeMirror 6.65.7:** A versatile code editor library for the browser.
-- **Piston API (`emkc.org/api/v2/piston/execute`):** Used for executing the code written in the editor.
+- 📝 **Rich Code Editing:** Syntax highlighting, smart editing, and a distraction-free interface (CodeMirror 6.65.7).
+- ⚡ **Instant Execution:** Run Python code in real time using the secure Piston API.
+- 🧩 **Minimal Footprint:** Just `index.html`, `style.css`, and `script.js`—easy to understand and extend.
+- 🌐 **Universal Access:** Works on any device, any browser, anywhere.
+- 🚀 **Optimized Performance:** Lightning-fast load times and smooth user experience.
 
-## Getting Started 🚀
+---
 
-To get a copy of this project up and running on your local machine, follow these simple steps:
+## 🛠️ Tech Stack
 
-1.  **Clone the repository:**
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18"/> **HTML5**
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="18"/> **CSS3**
+- <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18"/> **JavaScript (ES6+)**
+- <img src="https://img.shields.io/badge/CodeMirror-6.65.7-1f425f?style=flat-square&logo=codemirror&logoColor=white" height="18"/> **CodeMirror**
+- <img src="https://img.shields.io/badge/Piston%20API-emkc.org-blue?style=flat-square" height="18"/> **Piston API** ([docs](https://emkc.org/api/v2/piston/execute))
 
-    ```bash
-    git clone https://github.com/GourangaDasSamrat/SimPle-Python-Compiler.git
-    ```
+---
 
-2.  **Navigate to the project directory:**
+## 📂 Project Structure
 
-    ```bash
-    cd SimPle-Python-Compiler
-    ```
-
-3.  **Open the `index.html` file:**
-    Simply open the `index.html` file in your preferred web browser.
-
-That's it! You should now be able to use the Simple Python Compiler locally.
-
-## Important Note/Disclaimer ⚠️
-
-This project uses an external API (`emkc.org/api/v2/piston/execute`) for code execution. Please be aware of their terms of service and usage limits. This project is intended for simple compilation and testing purposes. Do not use it for executing malicious code or for any purpose that violates the API provider's policies.
-
-## Contribution 🙌
-
-I'm always learning and improving, Sir! If you have any ideas on how to make this Simple Python Compiler even better, or if you find any bugs, feel free to fork the repository and create a pull request. Your contributions are super welcome! 😊
-
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author 👑
-
-This project was built with passion by me, Gouranga Das Samrat!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GourangaDasSamrat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouranga-das-samrat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white)](https://gourangadas.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouranga.das.khulna@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/gourangadassamrat/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gouranga-das-samrat)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Capable-Plantain8709/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gourangsamrat)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/gourangadassamrat)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27733996/gouranga-das-samrat?tab=profile)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Gouranga-Das-Samrat)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gourangadassamrat)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@GourangaDasSamrat)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gouranga.das.khulna)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://gourangadassamrat.blogspot.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jnZStfKW7v)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gouranga_khulna)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gourangadassamrat)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gouranga.das.khulna)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gourangadassamrat)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@gouranga.das.khulna)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/gourangadaskhulna)
-
-## Show Your Support ❤️
-
-If you like this project, please consider giving it a star ⭐ on GitHub! It helps a lot and motivates me to create more cool stuff. Thanks, Sir! 🙏
-
-## Feedback 📩
-
-Got any feedback or suggestions? I'd love to hear them! Feel free to open an issue on GitHub or reach out to me through any of my social links. Your thoughts are valuable! 😊
-
-## Project Structure 📂
-
-```
+```text
 SimPle-Python-Compiler/
-├── index.html          # Main HTML file with the application structure
-├── style.css          # CSS styles for the application
-├── script.js         # JavaScript code for editor and API integration
-├── favicon.ico      # Website favicon
-├── LICENSE         # MIT License file
-└── README.md      # Project documentation
+├── index.html      # Main HTML file
+├── style.css       # CSS styles
+├── script.js       # JavaScript logic
+├── favicon.ico     # Website favicon
+├── LICENSE         # MIT License
+└── README.md       # Project documentation
 ```
 
-## Performance Metrics 📊
+---
 
-### Lighthouse Score
+## 📊 Performance & Quality
 
-![Performance](https://img.shields.io/badge/Performance-98-success)
-![Accessibility](https://img.shields.io/badge/Accessibility-100-success)
-![Best Practices](https://img.shields.io/badge/Best%20Practices-95-success)
-![SEO](https://img.shields.io/badge/SEO-100-success)
+### 🚦 Lighthouse Scores
 
-### PageSpeed Insights
+<p align="center">
+  <img src="https://img.shields.io/badge/Performance-98-success" alt="Performance">
+  <img src="https://img.shields.io/badge/Accessibility-100-success" alt="Accessibility">
+  <img src="https://img.shields.io/badge/Best%20Practices-95-success" alt="Best Practices">
+  <img src="https://img.shields.io/badge/SEO-100-success" alt="SEO">
+</p>
 
-- 📱 **Mobile Performance**: 95/100
+### ⚡ PageSpeed Insights
 
+- 📱 **Mobile**: 95/100
   - First Contentful Paint: 0.8s
   - Speed Index: 1.2s
   - Time to Interactive: 1.5s
-
-- 🖥️ **Desktop Performance**: 98/100
+- 🖥️ **Desktop**: 98/100
   - First Contentful Paint: 0.5s
   - Speed Index: 0.8s
   - Time to Interactive: 1.0s
 
-### Core Web Vitals
+### 📈 Core Web Vitals
 
-![LCP](https://img.shields.io/badge/LCP-1.5s-success)
-![FID](https://img.shields.io/badge/FID-15ms-success)
-![CLS](https://img.shields.io/badge/CLS-0.05-success)
+<p align="center">
+  <img src="https://img.shields.io/badge/LCP-1.5s-success" alt="LCP">
+  <img src="https://img.shields.io/badge/FID-15ms-success" alt="FID">
+  <img src="https://img.shields.io/badge/CLS-0.05-success" alt="CLS">
+</p>
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/GourangaDasSamrat/SimPle-Python-Compiler.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd SimPle-Python-Compiler
+   ```
+3. **Open `index.html`:**
+   Open the `index.html` file in your preferred web browser.
+
+Enjoy instant Python coding in your browser! 🐍
+
+---
+
+## ⚠️ Disclaimer
+
+This project uses the [Piston API](https://emkc.org/api/v2/piston/execute) for code execution. Please review their terms of service and usage limits. This tool is for educational and testing purposes only. **Do not use it for executing malicious code or violating the API provider's policies.**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or spot any bugs, please fork the repository and submit a pull request. Your input is highly valued! 🙏
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author & Socials
+
+Built with ❤️ by <b>Gouranga Das Samrat</b>
+
+<p align="center">
+  <a href="https://github.com/GourangaDasSamrat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/gouranga-das-samrat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://gourangadas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:gouranga.das.khulna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/gourangadassamrat/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode"></a>
+  <a href="https://codepen.io/gouranga-das-samrat"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+  <a href="https://www.reddit.com/user/Capable-Plantain8709/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://www.behance.net/gourangsamrat"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://dribbble.com/gourangadassamrat"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
+  <a href="https://stackoverflow.com/users/27733996/gouranga-das-samrat?tab=profile"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="https://www.quora.com/profile/Gouranga-Das-Samrat"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"></a>
+  <a href="https://www.twitch.tv/gourangadassamrat"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
+  <a href="https://www.youtube.com/@GourangaDasSamrat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://medium.com/@gouranga.das.khulna"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://gourangadassamrat.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+  <a href="https://discord.gg/jnZStfKW7v"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/gouranga_khulna"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/gourangadassamrat"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/gouranga.das.khulna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@gourangadassamrat"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.threads.net/@gouranga.das.khulna"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
+  <a href="https://pinterest.com/gourangadaskhulna"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+</p>
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, please give it a ⭐ on GitHub! Your support inspires further development and open-source contributions.
+
+---
+
+## 💬 Feedback
+
+Have feedback or suggestions? Open an issue or reach out via any of the social links above. Your input is always welcome!
