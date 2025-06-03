@@ -46,11 +46,13 @@
 
 ## 🛠️ Tech Stack
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18"/> **HTML5**
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="18"/> **CSS3**
-- <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18"/> **JavaScript (ES6+)**
-- <img src="https://img.shields.io/badge/CodeMirror-6.65.7-1f425f?style=flat-square&logo=codemirror&logoColor=white" height="18"/> **CodeMirror**
-- <img src="https://img.shields.io/badge/Piston%20API-emkc.org-blue?style=flat-square" height="18"/> **Piston API** ([docs](https://emkc.org/api/v2/piston/execute))
+| Technology | Description                                                            | Badge                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| HTML5      | Markup for structure                                                   | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="18"/>                  |
+| CSS3       | Styling and layout                                                     | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="18"/>                    |
+| JavaScript | Logic and interactivity (ES6+)                                         | <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18"/>   |
+| CodeMirror | In-browser code editor                                                 | <img src="https://img.shields.io/badge/CodeMirror-6.65.7-1f425f?style=flat-square&logo=codemirror&logoColor=white" height="18"/> |
+| Piston API | Remote code execution ([docs](https://emkc.org/api/v2/piston/execute)) | <img src="https://img.shields.io/badge/Piston%20API-emkc.org-blue?style=flat-square" height="18"/>                               |
 
 ---
 
