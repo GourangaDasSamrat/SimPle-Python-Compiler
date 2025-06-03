@@ -140,12 +140,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👤 Author & Contact
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106964964?v=4" alt="Gouranga Das Samrat" width="100" style="border-radius:50%;margin-bottom:10px;"/>
+  <img src="https://i.ibb.co/Zv4f5LJ/profile.jpg" alt="Gouranga Das Samrat" width="110" style="border-radius:50%;margin-bottom:10px;box-shadow:0 2px 8px #ccc;"/>
 </p>
 
 <p align="center">
   <b>Gouranga Das Samrat</b><br>
-  <i>Full Stack Developer | Open Source Enthusiast | Python & Web Specialist</i>
+  <i>Frontend Developer | JavaScript & React Expert | Open Source Enthusiast</i>
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </p>
 
 <p align="center">
-  <i>Feel free to connect with me on any platform above for collaboration, questions, or just to say hi!</i>
+  <i>Let's connect! I'm always open to collaboration, frontend projects, or just a friendly chat about JavaScript and React.</i>
 </p>
 
 ---
