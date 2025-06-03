@@ -140,7 +140,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 👤 Author & Contact
 
 <p align="center">
-  <img src="https://i.ibb.co/Zv4f5LJ/profile.jpg" alt="Gouranga Das Samrat" width="110" style="border-radius:50%;margin-bottom:10px;box-shadow:0 2px 8px #ccc;"/>
+  <img src="https://i.postimg.cc/Bnwyx7kh/485760954-644674311798231-1067913994704069438-n.jpg" alt="Gouranga Das Samrat" width="110" style="border-radius:50%;margin-bottom:10px;box-shadow:0 2px 8px #ccc;"/>
 </p>
 
 <p align="center">
