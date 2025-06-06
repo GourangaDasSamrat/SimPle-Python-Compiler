@@ -28,6 +28,17 @@
 
 ---
 
+## 🎥 Demk Vidoe
+
+[Screencast from 2025-06-06 11-58-18.webm](https://github.com/user-attachments/assets/1b4b5e79-2a01-4ca4-bedc-3424a588c57c)
+
+
+[Screencast from 2025-06-06 12-01-26.webm](https://github.com/user-attachments/assets/4983e7ea-dcdb-4ec5-8642-b8091fbd0911)
+
+
+
+---
+
 ## 👋 Introduction
 
 **Simple Python Compiler** is a modern, web-based Python playground designed for speed, simplicity, and productivity. Powered by CodeMirror and the Piston API, it lets you experiment, learn, and share Python code effortlessly—right from your browser.
