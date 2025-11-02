@@ -18,13 +18,22 @@
 
 ---
 
-## 🚀 Live Demo
+<div align="center">
+  
+  [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GGourangaDasSamrat/SimPle-Python-Compiler)
 
-<p align="center">
-  <a href="https://simplepythoncompiler.netlify.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
-  </a>
-</p>
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)]()
+  
+  <a href="https://simplepythoncompiler.netlify.app/"><strong>✨ View Live Demo »</strong></a>
+
+</div>
+  <p style="margin-top:16px;">
+    <a href="" title="Detailed documentation on DeepWiki">
+      <img alt="DeepWiki Docs" src="https://img.shields.io/badge/Documentation-DeepWiki-4B79FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    </a>
+  </p>
+  <p><em>For detailed documentation, guides, and configuration notes — visit the DeepWiki page above.</em></p>
+</div>
 
 ---
 
