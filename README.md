@@ -20,15 +20,15 @@
 
 <div align="center">
   
-  [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GGourangaDasSamrat/SimPle-Python-Compiler)
+  [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/GourangaDasSamrat/SimPle-Python-Compiler)
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)]()
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GourangaDasSamrat/SimPle-Python-Compiler)
   
   <a href="https://simplepythoncompiler.netlify.app/"><strong>✨ View Live Demo »</strong></a>
 
 </div>
   <p style="margin-top:16px;">
-    <a href="" title="Detailed documentation on DeepWiki">
+    <a href="https://deepwiki.com/GourangaDasSamrat/SimPle-Python-Compiler" title="Detailed documentation on DeepWiki">
       <img alt="DeepWiki Docs" src="https://img.shields.io/badge/Documentation-DeepWiki-4B79FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
     </a>
   </p>
@@ -36,7 +36,6 @@
 </div>
 
 ---
-
 ## 🎥 Demk Vidoe
 
 [Screencast from 2025-06-06 11-58-18.webm](https://github.com/user-attachments/assets/1b4b5e79-2a01-4ca4-bedc-3424a588c57c)
